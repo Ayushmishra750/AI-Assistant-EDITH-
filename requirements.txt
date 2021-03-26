@@ -1,0 +1,17 @@
+SpeechRecognition
+pyttsx3
+playsound
+Pillow
+pyscreenshot
+pynput
+psutil
+# opencv-contrib-python
+# opencv
+wikipedia
+webbrowser
+bs4
+smtplib
+youtube_search
+wmi
+geopy
+googletrans
